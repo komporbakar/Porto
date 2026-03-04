@@ -6,19 +6,19 @@ const contactItems = [
     href: "mailto:nurrohmanarif000@gmail.com",
     icon: "fa-envelope",
     label: "Email",
-    value: "arif.nurrohman@email.com",
+    value: "nurrohmanarif000@gmail.com",
   },
   {
     href: "https://github.com/komporbakar",
     icon: "fab fa-github",
     label: "GitHub",
-    value: "github.com/arifnurrohman",
+    value: "github.com/komporbakar",
   },
   {
     href: "https://linkedin.com/in/arifnurrohman0760",
     icon: "fab fa-linkedin-in",
     label: "LinkedIn",
-    value: "linkedin.com/in/arifnurrohman",
+    value: "linkedin.com/in/arifnurrohman0760",
   },
   {
     href: "#",
