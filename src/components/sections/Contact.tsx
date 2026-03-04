@@ -100,11 +100,11 @@ export default function Contact() {
             <i className="fas fa-paper-plane mr-1" /> Contact
           </div>
           <h2 className="section-title text-slate-900 dark:text-blue-50">
-            Let's Work Together
+            Let&apos;s Work Together
           </h2>
           <p className="text-[17px] text-slate-500 dark:text-[#7fa0c8] max-w-[520px]">
-            Have a project in mind or want to discuss opportunities? I'd love to
-            hear from you.
+            Have a project in mind or want to discuss opportunities? I&apos;d
+            love to hear from you.
           </p>
         </div>
 
@@ -115,9 +115,9 @@ export default function Contact() {
               Get In Touch
             </div>
             <p className="text-[15px] text-slate-500 dark:text-[#7fa0c8] leading-[1.8] mb-7">
-              Whether you're looking for a collaborator on a technical project,
-              need a consultant for your digital transformation, or simply want
-              to connect — my inbox is always open.
+              Whether you&apos;re looking for a collaborator on a technical
+              project, need a consultant for your digital transformation, or
+              simply want to connect — my inbox is always open.
             </p>
             <div className="space-y-3">
               {contactItems.map((item) => (
